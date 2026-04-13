@@ -1,3 +1,6 @@
 [submodule "apps/mobile-flutter"]
 	path = apps/mobile-flutter
 	url = ../mobile-apps
+[submodule "apps/web-nextjs"]
+	path = apps/web-nextjs
+	url = ../web-nextjs
